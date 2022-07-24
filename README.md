@@ -6,7 +6,7 @@ A solution for mesh router nodes placement problem using Tabu search algorithm
  - Francisco Jesús Belmonte Pintre
  - Martín González López
 
-# Captures
+# Results
 <p align="center">
   <img src="https://raw.githubusercontent.com/franloradr/MC-TSMesh/master/results/result_1.png">
 </p><br>
